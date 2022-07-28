@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>Feedreader Online Subscriptions</title>
+  </head>
+  <body>
+
+
+<outline title="Nyheter" text="Nyheter">
+<outline type="rss" title="Yle News | Tuoreimmat uutiset" text="Yle News | Tuoreimmat uutiset" htmlUrl="https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NEWS" xmlUrl="https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_NEWS"/>
+<outline type="rss" title="Yle Selkouutiset | Tuoreimmat uutiset" text="Yle Selkouutiset | Tuoreimmat uutiset" htmlUrl="https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_SELKOUUTISET" xmlUrl="https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_SELKOUUTISET"/>
+<outline type="rss" title="Senaste nytt - De senaste nyheterna" text="Senaste nytt - De senaste nyheterna" htmlUrl="https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/" xmlUrl="https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/"/>
+</outline>
+<outline title="Podcast" text="Podcast">
+<outline type="rss" title="Ekot" text="Ekot" htmlUrl="http://api.sr.se/api/rss/pod/3795" xmlUrl="http://api.sr.se/api/rss/pod/3795"/>
+<outline type="rss" title="Sommar &amp;#38; Vinter i P1" text="Sommar &amp;#38; Vinter i P1" htmlUrl="http://api.sr.se/api/rss/pod/4023" xmlUrl="http://api.sr.se/api/rss/pod/4023"/>
+<outline type="rss" title="P1 Dokumentär" text="P1 Dokumentär" htmlUrl="http://api.sr.se/api/rss/pod/4013" xmlUrl="http://api.sr.se/api/rss/pod/4013"/>
+<outline type="rss" title="Darknet Diaries" text="Darknet Diaries" htmlUrl="https://feeds.megaphone.fm/darknetdiaries" xmlUrl="https://feeds.megaphone.fm/darknetdiaries"/>
+<outline type="rss" title="WTF1 Podcast" text="WTF1 Podcast" htmlUrl="https://audioboom.com/channels/4949565.rss" xmlUrl="https://audioboom.com/channels/4949565.rss"/>
+<outline type="rss" title="Alex &amp;#38; Sigges podcast" text="Alex &amp;#38; Sigges podcast" htmlUrl="https://feed.pod.space/alexosigge" xmlUrl="https://feed.pod.space/alexosigge"/>
+<outline type="rss" title="Sällskapet" text="Sällskapet" htmlUrl="https://feeds.yle.fi/areena/v1/series/1-50505027.rss?lang=fi&amp;downloadable=true" xmlUrl="https://feeds.yle.fi/areena/v1/series/1-50505027.rss?lang=fi&amp;downloadable=true"/>
+<outline type="rss" title="Viki ja Köpi Podcast" text="Viki ja Köpi Podcast" htmlUrl="https://feeds.yle.fi/areena/v1/series/1-50080410.rss?lang=fi&amp;downloadable=true" xmlUrl="https://feeds.yle.fi/areena/v1/series/1-50080410.rss?lang=fi&amp;downloadable=true"/>
+<outline type="rss" title="The Wild with Chris Morgan" text="The Wild with Chris Morgan" htmlUrl="https://www.kuow.org/feeds/podcasts/thewild/podcasts/rss.xml" xmlUrl="https://www.kuow.org/feeds/podcasts/thewild/podcasts/rss.xml"/>
+<outline type="rss" title="Uppgång och Fall" text="Uppgång och Fall" htmlUrl="https://access.acast.com/rss/6114d2a9696c530014d3d855/" xmlUrl="https://access.acast.com/rss/6114d2a9696c530014d3d855/"/>
+<outline type="rss" title="Snedtänkt med Kalle Lind" text="Snedtänkt med Kalle Lind" htmlUrl="https://api.sr.se/api/rss/pod/21650" xmlUrl="https://api.sr.se/api/rss/pod/21650"/>
+<outline type="rss" title="P3 ID" text="P3 ID" htmlUrl="https://api.sr.se/api/rss/pod/33808" xmlUrl="https://api.sr.se/api/rss/pod/33808"/>
+<outline type="rss" title="P3 Serie" text="P3 Serie" htmlUrl="https://api.sr.se/api/rss/pod/22824" xmlUrl="https://api.sr.se/api/rss/pod/22824"/>
+<outline type="rss" title="P3 Musikdokumentär" text="P3 Musikdokumentär" htmlUrl="https://api.sr.se/api/rss/pod/itunes/25943" xmlUrl="https://api.sr.se/api/rss/pod/itunes/25943"/>
+<outline type="rss" title="Beredskap" text="Beredskap" htmlUrl="https://api.sr.se/api/rss/pod/itunes/37282" xmlUrl="https://api.sr.se/api/rss/pod/itunes/37282"/>
+<outline type="rss" title="Verkligheten i P3" text="Verkligheten i P3" htmlUrl="https://api.sr.se/api/rss/pod/4895" xmlUrl="https://api.sr.se/api/rss/pod/4895"/>
+<outline type="rss" title="Episodes - Hello from the Magic Tavern" text="Episodes - Hello from the Magic Tavern" htmlUrl="https://hellofromthemagictavern.com/episodes?format=rss" xmlUrl="https://hellofromthemagictavern.com/episodes?format=rss"/>
+<outline type="rss" title="P4 Stockholm" text="P4 Stockholm" htmlUrl="https://api.sr.se/api/rss/pod/itunes/3783" xmlUrl="https://api.sr.se/api/rss/pod/itunes/3783"/>
+</outline>
+
+  </body>
+</opml>
